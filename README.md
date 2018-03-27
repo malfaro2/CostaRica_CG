@@ -11,5 +11,9 @@ Stomach cancer, or gastric cancer, refers to cancer arising from any part of the
 
 The files needed to reproduce this article are:
 
-- costarica.shp
-- dat1.csv
+- [costarica.shp](https://github.com/malfaro2/CostaRica_CG/blob/master/costa%20rica.shp)
+- [dat1.csv](https://github.com/malfaro2/CostaRica_CG/blob/master/data1.csv)
+
+Also, the R code to perform a spatial analysis is included in:
+
+- [R code](https://github.com/malfaro2/CostaRica_CG/blob/master/finalcode.R)
