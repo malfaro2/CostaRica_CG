@@ -1,8 +1,7 @@
-## SESUG 20121 
-## Paper PO-14
-## Spatial Analysis of Gastric Cancer in Costa Rica using SAS 
-# So Young Park, North Carolina State University, Raleigh, NC
-# Marcela Alfaro-Cordoba, North Carolina State University, Raleigh, NC  
+# SESUG 2012
+# Paper PO-14
+# Spatial Analysis of Gastric Cancer in Costa Rica using SAS 
+So Young Park and Marcela Alfaro-Cordoba, North Carolina State University, Raleigh, NC  
 
 https://pdfs.semanticscholar.org/138b/0034acbb0e0cefbb7146c5634f323efeaae4.pdf
 
